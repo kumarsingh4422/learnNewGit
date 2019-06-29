@@ -1,0 +1,12 @@
+my txt filekumarsingh1123@gmail.com
+Name :  Amar Kumar
+
+echo "# User12" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/kumarsingh4422/User12.git
+git push -u origin master
+
+git remote add origin https://github.com/kumarsingh4422/User12.git
+git push -u origin master
